@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=CarList
+comment1.params=file
+comment1.target=CarList(java.io.File)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CarList\n
+comment2.params=
+comment2.target=void\ printHeading()
+comment2.text=\n\ Prints\ the\ heading\ shared\ by\ all\n\ of\ CarList's\ print\ functions\n
+comment3.params=
+comment3.target=void\ printList()
+comment3.text=\n\ Prints\ a\ list\ of\ all\ cars\n
+comment4.params=
+comment4.target=void\ printExpensiveCars()
+comment4.text=\n\ Prints\ a\ list\ of\ expensive\ cars\n
+comment5.params=
+comment5.target=Car\ cheapestCar()
+comment5.text=\n\ Returns\ the\ cheapest\ car\ from\ this\ list\n\ \n\ @return\ car\n
+comment6.params=make
+comment6.target=int\ countCarsWithMake(java.lang.String)
+comment6.text=\n\ Determines\ how\ many\ cars\ with\ a\ given\ make\ are\ in\ this\ list\n\ \n\ @param\ String\ make\ -\ the\ make\ of\ car\ being\ queried\ for\n\ @return\ int\n
+comment7.params=
+comment7.target=java.util.ArrayList\ antiqueCarList()
+comment7.text=\n\ Returns\ an\ ArrayList\ of\ all\ antique\ cars\n\ \n\ @returns\ ArrayList<Car>\n
+numComments=8

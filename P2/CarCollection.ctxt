@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CarCollection
+comment0.text=\n\ A\ class\ with\ methods\ meant\ to\ recursively\ iterate\ over\ \n\ arrays\ of\ Car\ objects\n\n\ @author\ (Luis\ Gutierrez)\n\ @version\ (10/03/18)\n
+comment1.params=list\ len
+comment1.target=java.lang.String\ toString(Car[],\ int)
+comment1.text=\n\ Returns\ a\ string\ representation\ of\ all\ cars\ in\ an\ array\n\n\ @param\ \ list\ \ A\ list\ of\ car\ obects\n\ @param\ len\ Length\ of\ list\n\ @return\ \ \ \ String\n
+comment2.params=list\ len
+comment2.target=int\ countAntique(Car[],\ int)
+comment2.text=\n\ Returns\ the\ number\ of\ antique\ cars\ in\ thre\ list\n\n\ @param\ \ list\ \ A\ list\ of\ car\ obects\n\ @param\ len\ Length\ of\ list\n\ @return\ \ \ \ int\n
+comment3.params=list\ len
+comment3.target=void\ printExpensiveCars(Car[],\ int)
+comment3.text=\n\ Prints\ all\ cars\ from\ the\ list\ that\ are\ expensive\n\n\ @param\ \ list\ \ A\ list\ of\ car\ obects\n\ @param\ len\ Length\ of\ list\n
+comment4.params=list\ len\ make
+comment4.target=void\ printCarsWithMake(Car[],\ int,\ java.lang.String)
+comment4.text=\n\ Prints\ all\ cars\ from\ the\ list\ of\ a\ certain\ make\n\n\ @param\ \ list\ \ A\ list\ of\ car\ obects\n\ @param\ len\ Length\ of\ list\n
+comment5.params=list\ len
+comment5.target=Car\ cheapestCar(Car[],\ int)
+numComments=6
