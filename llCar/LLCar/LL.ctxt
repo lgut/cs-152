@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LL
+comment0.text=\n\ Write\ a\ description\ of\ class\ LL\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=LL()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ LL\n
+comment2.params=
+comment2.target=LL.Node\ getList()
+comment3.params=first
+comment3.target=int\ countAntique(LL.Node)
+comment4.params=car
+comment4.target=void\ addHead(Car)
+comment5.params=first
+comment5.target=java.lang.String\ toStringRec(LL.Node)
+comment6.params=ls
+comment6.target=java.lang.String\ getNewestCarRec(LL.Node)
+comment6.text=\n\ \ \ \ public\ ArrayList<Car>\ newestCars()\n\ \ \ \ {\n\ \ \ \ \ \ \ \ ArrayList\ cars\ \=\ new\ ArrayList<Car>();\n\ \ \ \ \ \ \ \ if\ (list\ \=\=\ null)\n\ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ return\ cars;\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ else\n\ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ return\n\ \ \ \ \ \ \ \ }\n}
+numComments=7

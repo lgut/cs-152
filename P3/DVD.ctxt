@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DVD
+comment1.params=title\ director\ year\ cost\ bluRay
+comment1.target=DVD(java.lang.String,\ java.lang.String,\ int,\ double,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ getDirector()
+numComments=4

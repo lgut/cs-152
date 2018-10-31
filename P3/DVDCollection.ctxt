@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=DVDCollection
+comment1.params=
+comment1.target=DVDCollection()
+comment2.params=director
+comment2.target=int\ binSearch(java.lang.String)
+comment3.params=title\ director\ year\ cost\ bluRay
+comment3.target=void\ addDVD(java.lang.String,\ java.lang.String,\ int,\ double,\ boolean)
+comment4.params=director
+comment4.target=int\ searchForDVD(java.lang.String)
+comment5.params=index
+comment5.target=DVD\ getDVD(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=void\ increaseSize()
+numComments=8

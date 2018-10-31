@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ Class\ representing\ a\ car\ and\ it's\ properties\n\n\ @author\ (Luis\ Gutierrez)\n\ @version\ (08/30/2018)\n
+comment1.params=vin\ make\ model\ cost\ year
+comment1.target=Car(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Car\n
+comment2.params=tokens
+comment2.target=Car(java.lang.String[])
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ car\n\ \n\ Assumes\ that\ array\ items\ are\ in\ the\ correct\ order\n\ @param\ tokens\ -\ A\ String\ array\ containing\ strings\ that\ correspond\ to\ car\ properties\n
+comment3.params=
+comment3.target=double\ getCost()
+comment3.text=\n\ Returns\ the\ car's\ cost\n\ \n\ @return\ this.cost\n
+comment4.params=
+comment4.target=java.lang.String\ getMake()
+comment4.text=\n\ Returns\ this\ car's\ make\n\ \n\ @return\ this.make\n
+comment5.params=
+comment5.target=boolean\ isExpensive()
+comment5.text=\n\ Returns\ true\ if\ cost\ of\ car\ is\ greater\ than\ $30,000\n
+comment6.params=
+comment6.target=boolean\ isAntique()
+comment6.text=\n\ Returns\ true\ if\ car's\ model\ year\ is\ before\ 1968\n
+comment7.params=
+comment7.target=int\ getYear()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\n\ Returns\ a\ string\ representation\ of\ this\ car\n\ \n\ @return\ String\n
+numComments=9
